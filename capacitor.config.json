@@ -1,5 +1,5 @@
 {
   "appId": "com.example.app",
   "appName": "Rkalling",
-  "webDir": "www"
+  "webDir": "dist"
 }
