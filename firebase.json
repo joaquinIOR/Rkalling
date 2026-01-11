@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "mi-app-movil/dist",
     "ignore": [
       "firebase.json",
       "**/.*",
